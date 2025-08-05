@@ -47,22 +47,17 @@ A modern, mobile-friendly fitness app built with Next.js and Tailwind CSS that h
    cd FunWorkout
    ```
 
-2. **Navigate to the project directory**
-   ```bash
-   cd my-fitness-game
-   ```
-
-3. **Install dependencies**
+2. **Install dependencies**
    ```bash
    npm install
    ```
 
-4. **Start the development server**
+3. **Start the development server**
    ```bash
    npm run dev
    ```
 
-5. **Open your browser**
+4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000) (or the port shown in your terminal)
 
 ## 📱 How to Use
@@ -101,7 +96,7 @@ A modern, mobile-friendly fitness app built with Next.js and Tailwind CSS that h
 ## 📁 Project Structure
 
 ```
-my-fitness-game/
+FunWorkout/
 ├── app/
 │   ├── page.tsx                 # Home page with workout categories
 │   ├── workouts.ts              # Exercise database and utilities
